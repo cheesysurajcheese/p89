@@ -1,0 +1,21 @@
+.body
+{
+    background-color: tomato;
+}
+center {
+    display: block;
+    text-align: -webkit-center;}
+h1.solid{
+    border-style: solid;
+ 
+    font-style: italic;
+    padding: 30px;
+   width: auto;
+}
+h2.double{
+    
+    font-style: italic;
+    border-style:double;
+}
+
+
